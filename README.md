@@ -1,15 +1,43 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=5eb034&size=22&center=false&vCenter=true&width=700&height=60&duration=3000&pause=1200&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub;Bienvenido+a+mi+GitHub;Willkommen+auf+meinem+GitHub;Benvenuto+nel+mio+GitHub;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;Witaj+na+moim+GitHubie;Velkommen+til+min+GitHub;%E7%A7%81%E3%81%AEGitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D)](https://git.io/typing-svg)
+
 <!-- ************************************************** Intro ***************************************************** -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Cloud+Engineering+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;System+Integrations+%7C+Generative+AI+%7C+SDET)](https://git.io/typing-svg)
-
-
-[https://readme-typing-svg.demolab.com?font=Fira+Code&color=085489&lines=Software+Engineer;Cloud+Engineering ](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0EA5E9&speed=40&pause=1000&width=900&lines=Software+Engineer;Cloud+Engineering+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;System+Integrations+%7C+Generative+AI+%7C+SDET)
-
-## Hi, I'm Lucas Santos
-
+# 👋🏻 Hi, I'm Lucas Santos
 
 ### About Me
 
-Software Engineer specializing in **Backend Development, Process Automation, and Data Infrastructure**. I architect scalable integrations using Python, JavaScript, and REST APIs, with a strong focus on production-ready code and system reliability (**QA/SDET**). 
+Computer Science student, focusing on Cloud Computing and scalable infrastructure technologies. Currently preparing for the **AWS Certified Cloud Practitioner certification** and already holding the **Google Cloud Computing Foundations Certificate**.
 
-As a **Computer Engineering student**, I bridge the gap between complex business logic and high-performance automated workflows. With expertise in **AWS Cloud**, data pipelines, and a portfolio of over **40 professional certifications (including 14+ Google credentials)**, I am dedicated to engineering robust solutions that drive operational excellence at scale.
- 
+I am interested in areas such as Cloud Engineering, automation, systems integration, and cloud-based solutions, constantly seeking to improve my skills in tools and best practices in the market.
+
+--- 
+<!-- ************************************************** Contact ***************************************************** -->
+### Where you can find me
+
+
+
+---
+<!-- ************************************************* Skills **************************************************** -->
+### Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,html,css,js,python,mysql,docker,git"/>
+</p>
+---
+<!-- ************************************************* GitHub Stats **************************************************** -->
+### GitHub Stats
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbdsantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
