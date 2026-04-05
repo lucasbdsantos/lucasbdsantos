@@ -30,7 +30,7 @@ I am interested in areas such as Cloud Engineering, automation, systems integrat
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=tokyonight&title_color=5eb034&icon_color=5eb034&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=false&show=prs_merged" height="200"/>
 
-  <img src="https://github-readme-streak-stats-fawn-three.vercel.app?user=lucasbdsantos&theme=tokyonight&fire=5eb034&ring=5eb034&currStreakLabel=5eb034&background=00000000&hide_border=true&stroke=5eb034" height="200"/>
+  <img src="https://github-readme-streak-stats-fawn-three.vercel.app?user=lucasbdsantos&theme=merko&fire=5eb034&ring=5eb034&currStreakLabel=5eb034&background=00000000&hide_border=true&stroke=5eb034" height="200"/>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbdsantos&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" height="200"/>
 
