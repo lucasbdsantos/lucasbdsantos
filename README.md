@@ -28,7 +28,7 @@ I am interested in areas such as Cloud Engineering, automation, systems integrat
 ### GitHub Stats
 <div style="display: flex; align-items: center; gap: 10px;">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=merko&title_color=5eb034&icon_color=5eb034&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=false&show=prs_merged" height="200"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=merko&title_color=5eb034&icon_color=5eb034&text_color=ffffff&hide_border=true&bg_color=0d1117&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=false&show=prs_merged" height="200"/>
 
   <img src="https://github-readme-streak-stats-fawn-three.vercel.app?user=lucasbdsantos&theme=merko&fire=5eb034&ring=5eb034&currStreakLabel=5eb034&background=0d1117&hide_border=true&stroke=5eb034" height="200"/>
 
