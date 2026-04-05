@@ -13,31 +13,26 @@ I am interested in areas such as Cloud Engineering, automation, systems integrat
 <!-- ************************************************** Contact ***************************************************** -->
 ### Where you can find me
 
-
+<a href="https://www.linkedin.com/in/lucassantos-cloud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
 <!-- ************************************************* Skills **************************************************** -->
 ### Skills
+
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,html,css,js,python,mysql,docker,git"/>
 </p>
+
 ---
 <!-- ************************************************* GitHub Stats **************************************************** -->
 ### GitHub Stats
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: flex; align-items: center; gap: 10px;">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbdsantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasbdsantos&show_icons=true&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=false&show=prs_merged" height="200"/>
 
-</p>
+  <img src="https://github-readme-streak-stats-fawn-three.vercel.app?user=lucasbdsantos&theme=tokyonight&fire=00d1ff&ring=00d1ff&currStreakLabel=00d1ff&background=00000000&hide_border=true&stroke=00d1ff" height="200"/>
+
+</div>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbdsantos&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" height="200"/>
+
