@@ -1,5 +1,5 @@
 <!-- ************************************************** Intro ***************************************************** -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#085489&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Cloud+Engineering+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;System+Integrations+%7C+Generative+AI+%7C+SDET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=085489&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Cloud+Engineering+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;System+Integrations+%7C+Generative+AI+%7C+SDET)](https://git.io/typing-svg)
 
 ## Hi, I'm Lucas Santos
 
