@@ -39,7 +39,7 @@ I am interested in areas such as Cloud Engineering, automation, systems integrat
       </td>
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
         <p align="center">
-        <img src="https://github-readme-stats-green-pi-13.vercel.app/api/top-langs/?username=lucasbdsantos&layout=normal&hide_border=false&title_color=5dcbf3&text_color=ffffff&theme=dark" />
+        <img src="https://github-readme-stats-green-pi-13.vercel.app/api/top-langs/?username=lucasbdsantos&layout=normal&hide_border=true&title_color=5dcbf3&text_color=ffffff&theme=dark" />
         </p>
       </td> 
   </table>
