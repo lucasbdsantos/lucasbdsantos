@@ -7,27 +7,40 @@
 
 ### About Me
 
-Computer Science student, focusing on Cloud Computing and scalable infrastructure technologies. Currently preparing for the **AWS Certified Cloud Practitioner certification** and already holding the **Google Cloud Computing Foundations Certificate**.
-
-I am interested in areas such as Cloud Engineering, automation, systems integration, and cloud-based solutions, constantly seeking to improve my skills in tools and best practices in the market. But I also enjoy development and I already work with Python, HTML, CSS, and JavaScript in personal projects and studies.
+Computer Science student focused on Cloud Computing, with beginner-level experience in AWS infrastructure and a strong interest in DevOps practices. **AWS Cloud Practitioner** and **Google Cloud Computing Foundations Certificate** holder. Currently developing skills in cloud services, automation, and infrastructure management, aiming to grow into a DevOps Engineer role.
 
 --- 
-<!-- ************************************************** Contact ***************************************************** -->
-### Where you can find me
-
-<a href="https://www.linkedin.com/in/lucassantos-cloud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
----
 <!-- ************************************************* Skills **************************************************** -->
-### Skills
+### 🛠️ Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,html,css,js,python,mysql,docker,git"/>
 </p>
 
 ---
+<!-- ************************************************* Certifications **************************************************** -->
+### 🎖️ Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/f7ceb91c-e32b-49eb-83e1-84fbd5902505/linked_in?t=th9m1u" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
+  </a> 
+</p>
+
+<p align="center">
+  <b>AWS Certified Cloud Practitioner</b><br>
+</p>
+
+---
+<!-- ************************************************** Contact ***************************************************** -->
+### 📫 Where you can find me
+
+<a href="https://www.linkedin.com/in/lucassantos-cloud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
 <!-- ************************************************* GitHub Stats **************************************************** -->
-### GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
