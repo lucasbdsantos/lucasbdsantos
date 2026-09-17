@@ -1,20 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb034&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034f08&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=5eb034&size=22&center=false&vCenter=true&width=700&height=60&duration=3000&pause=1200&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub;Bienvenido+a+mi+GitHub;Willkommen+auf+meinem+GitHub;Benvenuto+nel+mio+GitHub;Bienvenue+sur+mon+GitHub;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;Witaj+na+moim+GitHubie;Velkommen+til+min+GitHub;Welkom+op+mi+GitHub;%E7%A7%81%E3%81%AEGitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D)](https://git.io/typing-svg)
 
 <!-- ************************************************** Intro ***************************************************** -->
+
 # 👋🏻 Hi, I'm Lucas Santos
+
+<br clear="both">
+<img align="left" height="170" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />  
 
 ### About Me
 
-Computer Science student focused on Cloud Computing, with beginner-level experience in AWS infrastructure and a strong interest in DevOps practices. **AWS Cloud Practitioner** and **Google Cloud Computing Foundations Certificate** holder. Currently developing skills in cloud services, automation, and infrastructure management, aiming to grow into a DevOps Engineer role.
+<p align="justify">
+  Computer Science student and DevOps Intern focused on Cloud Computing and DevOps practices. <strong>AWS Cloud Practitioner</strong> and <strong>Google Cloud Computing Foundations Certificate</strong> holder. Currently gaining hands-on experience in cloud infrastructure, automation, CI/CD, and DevOps practices while continuing to grow as a DevOps professional.
+</p>
+
+</br>
 
 --- 
 <!-- ************************************************* Skills **************************************************** -->
 ### 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,html,css,js,python,mysql,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,terraform,docker,python,git,html,css,js"/>
 </p>
 
 ---
@@ -58,4 +66,4 @@ Computer Science student focused on Cloud Computing, with beginner-level experie
   </table>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb034&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034f08&height=120&section=footer"/>
