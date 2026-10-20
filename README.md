@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034f08&height=120&section=header"/>
 
+<!-- GIT INTERESSANTE PARA VER DEPOIS -->
+<!-- ![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif) -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=5eb034&size=22&center=false&vCenter=true&width=700&height=60&duration=3000&pause=1200&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub;Bienvenido+a+mi+GitHub;Willkommen+auf+meinem+GitHub;Benvenuto+nel+mio+GitHub;Bienvenue+sur+mon+GitHub;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;Witaj+na+moim+GitHubie;Velkommen+til+min+GitHub;Welkom+op+mi+GitHub;%E7%A7%81%E3%81%AEGitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D)](https://git.io/typing-svg)
 
 <!-- ************************************************** Intro ***************************************************** -->
